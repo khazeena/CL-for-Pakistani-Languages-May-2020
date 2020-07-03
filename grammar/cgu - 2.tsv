@@ -1,0 +1,45 @@
+1	لڑکا	لڑکا	NOUN	_	_	3	nsubj	_	_
+2	کتاب	کتاب	NOUN	_	_	3	obj	_	_
+3	پڑھتا	پڑھ	VERB	_	_	0	root	_	_
+4	ہے	ہے	AUX	_	_	3	aux	_	_
+5	۔	۔	PUNC	_	_	3	punct	_	_
+									
+1	لڑکی	لڑکی	NOUN	_	_	4	nsubj	_	_
+2	 نے	 نے	ADP	_	_	1	case	_	_
+3	 کتاب	 کتاب	NOUN	_	_	4	obj	_	_
+4	 پڑھی	 پڑھ	VERB	_	_	0	root	_	_
+5	۔	۔	PUNC	_	_	4	punct	_	_
+									
+1	لڑکے	لڑکا	NOUN	_	_	5	nsubj	_	_
+2	نے	نے	ADP	_	_	1	case	_	_
+3	سبق	سبق	NOUN	_	_	5	obj	_	_
+4	یاد	یاد	NOUN	_	_	5	compound	_	_
+5	کیا	کر	VERB	_	_	0	root	_	_
+6	۔	۔	PUNCT	_	_	5	punct	_	_
+									
+1	لڑکی	لڑکی	NOUN	_	_	5	nsubj	_	_
+2	نے	نے	ADP	_	_	1	case	_	_
+3	میز	میز	NOUN	_	_	5	obj	_	_
+4	صاف	صاف	ADJ	_	_	5	compound	_	_
+5	کی	کر	VERB	_	_	0	root	_	_
+6	۔	۔	PUNCT	_	_	5	punct	_	_
+									
+# text = لڑکی ذہین ہے۔									
+1	لڑکی	لڑکی	NOUN	_	_	2	nsubj	_	_
+2	ذہین	ذہین	NOUN	_	_	0	root	_	_
+3	ہے	ہے	AUX	_	_	2	cop	_	_
+4	۔	۔	PUNCT	_	_	2	punct	_	_
+									
+# text = لڑکا گھر پر ہے۔									
+1	لڑکا	لڑکا	NOUN	_	_	2	nsubj	_	_
+2	گھر	گھر	NOUN	_	_	0	root	_	_
+3	پر	پر	ADP	_	_	2	case	_	_
+4	ہے	ہے	AUX	_	_	2	cop	_	_
+5	۔	۔	PUNCT	_	_	2	punct	_	_
+									
+# text = لڑکا وکیل بن گیا۔									
+1	لڑکا	لڑکا	NOUN	_	_	3	nsubj	_	_
+2	وکیل	وکیل	NOUN	_	_	3	xcomp	_	_
+3	بن	بن	VERB	_	_	0	root	_	_
+4	گیا	جا	AUX	_	_	3	aux	_	_
+5	۔	۔	PUNCT	_	_	3	punct	_	_
