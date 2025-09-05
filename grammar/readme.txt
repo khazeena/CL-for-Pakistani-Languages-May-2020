@@ -1,3 +1,10 @@
+The videos of these sessions are available at:
+
+https://www.youtube.com/watch?v=wTCQUkMXig8&list=PLnLv5MVAUisexyYEDComG5ck_ypAEtk6w
+
+=======================================================
+
+Follwing was the plan for these sessions:
 
 In these sessions, we will learn Urdu grammar by making (universal) dependency structures of around 50 Urdu sentences. This exercise will help us to understand Urdu grammar. It will give us an idea of computational grammar of other Pakistani languages too.
 The sessions will involve practical work i.e. 5-10 sentences will be sent to the participants 3 days before the session, so the participants try to create the dependency structures before the session, and then the structures and associated concepts will be discussed in the session.
